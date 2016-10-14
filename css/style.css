@@ -1,0 +1,54 @@
+body {
+	font-family: 'Open Sans', sans-serif;
+	background: url("../img/background.jpg") center center no-repeat;
+}
+
+
+
+a {text-decoration: none; outline: none;}
+
+header {
+
+	background-color: #000;
+	overflow: hidden;
+	font-family: 'Alike Angular', serif;
+	text-transform: uppercase;
+	}
+header h1{font-family: 'Alike Angular', serif;
+float:left;
+margin: 0;}
+header a {
+	color: #fff;
+}
+
+header nav{ 
+	float: right;
+}
+
+header nav ul{ 
+	margin: 0;
+	padding: 0;
+	}
+
+header nav ul li{
+	margin: 0;
+	padding:0;
+	list-style: none;
+	display: inline-block;
+}
+header nav ul li a{
+	padding: 10px;
+}
+
+
+
+#intro {}
+#intro h2 {
+	font-family: 'Alike Angular', serif;
+	text-transform: uppercase;
+	text-align: center;
+	line-height: 10;
+	color: #fff;
+	margin: 0;
+
+}
